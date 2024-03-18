@@ -8,7 +8,7 @@ kind: Component
 metadata:
   name: my-backstage-app
   annotations:
-    dynatrace.com/dynatrace-entity-id: HTTP_CHECK-FDACF08636972756
+    dynatrace.com/dynatrace-entity-id: FDACF08636972756
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
