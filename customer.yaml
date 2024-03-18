@@ -6,7 +6,7 @@ kind: Component
 # annotations:
 #   dynatrace.com/dynatrace-entity-id: DYNATRACE_ENTITY_ID
 metadata:
-  name:my-backstage-app
+  name: my-backstage-app
   annotations:
     dynatrace.com/dynatrace-entity-id: HTTP_CHECK-FDACF08636972756
   # Example for optional annotations
