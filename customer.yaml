@@ -9,6 +9,7 @@ metadata:
   name: my-backstage-app
   annotations:
     dynatrace.com/dynatrace-entity-id: PROCESS_GROUP_INSTANCE-1EFA7BB246D0DCFE
+    jira/project-key: ANALYTICS
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
